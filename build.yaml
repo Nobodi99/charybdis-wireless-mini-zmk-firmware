@@ -2,16 +2,19 @@
 
 board:
   - nice_nano_v2
+  - seeeduino_xiao_ble
 
 shield:
   - charybdis_left
   - charybdis_right
   - charybdis_dongle
+  - charybdis_dongle prospector_adapter
   - settings_reset
 
 format:
   - bt
   - dongle
+  - prospector
   - reset
 
 keymap:
